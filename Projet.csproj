@@ -222,14 +222,6 @@
     <None Include="Resources\bank.png" />
     <None Include="Resources\browser.png" />
     <None Include="Resources\shutdown.png" />
-    <None Include="Resources\8.png" />
-    <None Include="Resources\7.png" />
-    <None Include="Resources\6.png" />
-    <None Include="Resources\5.png" />
-    <None Include="Resources\4.png" />
-    <None Include="Resources\3.png" />
-    <None Include="Resources\2.png" />
-    <None Include="Resources\1.png" />
     <None Include="IMG\phone.png" />
     <None Include="IMG\phone2.png" />
     <None Include="IMG\address_24px.png" />
